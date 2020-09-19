@@ -1,1 +1,1 @@
-# My-Project-Idea
+# This is my project idea
